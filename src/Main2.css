@@ -1,0 +1,459 @@
+* {
+  transition: all 1s;
+}
+.Main2{
+  margin: 0 auto;
+}
+.main2-emptyspace{
+  width: 100%;
+  height: 1800px;
+  
+}
+.main-container22 {
+  width: 100%;
+  height: 514px;
+  display: flex;
+  text-align: center;
+  background-image: url("https://resource.logitechg.com/w_1800,c_limit,f_auto,q_auto,f_auto,dpr_auto/d_transparent.gif/content/dam/gaming/en/plp-mice/plp-mice-hero-desktop-2.png?v=1");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.text1 {
+  position: absolute;
+  top: 140px;
+  left: 125px;
+  width: 30px;
+  color: white;
+  font-weight: 700;
+  font-size: 50px;
+  line-height: 1;
+  letter-spacing: 0;
+  text-transform: uppercase;
+
+
+}
+
+.text_box1 {
+  position: absolute;
+  top: 315px;
+  left: 130px;
+  width: 50px;
+  color: white;
+  font-size: 20px;
+  letter-spacing: 0;
+  white-space: nowrap;
+  line-height: 25px;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.bold_line {
+  position: absolute;
+  width: 90px;
+  top: 290px;
+  height: 5px;
+  background-color: #C2C6C9;
+  left: 128px;
+  border-color: #C2C6C9;
+}
+
+.log {
+  position: absolute;
+  display: flex;
+  padding: 50px 650px;
+  width: 190px;
+}
+
+.Aside {
+  /* background-color: aqua; */
+  position: absolute;
+  width: 334px;
+  left: 10px;
+  height: 100%;
+  top: 665px;
+}
+
+.text3 {
+  position: absolute;
+  display: flex;
+  color: #69719F;
+  top: 10px;
+  left: 30px;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 1;
+  letter-spacing: 0;
+  text-transform: uppercase;
+
+}
+
+.hash {
+  position: absolute;
+  display: flex;
+  border-top: 1px dashed #AFAFAF;
+  width: 250px;
+  left: 33px;
+}
+
+.text12 {
+  position: absolute;
+  display: flex;
+  color: black;
+  top: 75px;
+  left: 67px;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 1;
+  letter-spacing: 0;
+  width: 10px;
+  font-weight: bold;
+  font-family: Brown-Pro, Arial, sans-serif;
+}
+
+.box {
+  position: relative;
+  width: 100px;
+  height: 43px;
+  display: flex;
+}
+
+.sort_line {
+  position: relative;
+  background-color: #F4F4F4;
+  width: 100%;
+  height: 83px;
+}
+
+.sort_text1 {
+  position: absolute;
+  display: flex;
+  color: black;
+  top: 12px;
+  left: 78px;
+  color: #69719F;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 1;
+  letter-spacing: 0;
+  width: 10px;
+  white-space: nowrap;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  text-transform: uppercase;
+}
+
+.text4 {
+  position: absolute;
+  display: flex;
+  color: #69719F;
+  top: 300px;
+  left: 30px;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 1;
+  letter-spacing: 0;
+  text-transform: uppercase;
+
+}
+
+.hash2 {
+  position: absolute;
+  display: flex;
+  border-top: 1px dashed #AFAFAF;
+  top: 297px;
+  width: 250px;
+  left: 33px;
+}
+
+.text13 {
+  position: absolute;
+  display: flex;
+  color: black;
+  top: 140px;
+  left: 67px;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 1;
+  letter-spacing: 0;
+  width: 10px;
+  font-weight: bold;
+  font-family: Brown-Pro, Arial, sans-serif;
+}
+
+.text5 {
+  position: absolute;
+  display: flex;
+  color: #69719F;
+  top: 400px;
+  left: 30px;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 1;
+  letter-spacing: 0;
+  text-transform: uppercase;
+
+}
+
+.hash3 {
+  position: absolute;
+  display: flex;
+  border-top: 1px dashed #AFAFAF;
+  top: 400px;
+  width: 250px;
+  left: 33px;
+}
+
+.text14 {
+  position: absolute;
+  display: flex;
+  color: black;
+  top: 200px;
+  left: 67px;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 1;
+  letter-spacing: 0;
+  width: 10px;
+  font-weight: bold;
+  font-family: Brown-Pro, Arial, sans-serif;
+}
+
+.check_box {
+  position: absolute;
+  width: 20px;
+  height: 20px;
+  top: 70px;
+  left: 30px;
+  border-color: #00A9E0;
+  border-radius: 20px;
+}
+
+.check_box2 {
+  position: absolute;
+  width: 20px;
+  height: 20px;
+  top: 110px;
+  left: 30px;
+  border-color: #00A9E0;
+  border-radius: 20px;
+}
+
+.check_box3 {
+  position: absolute;
+  width: 20px;
+  height: 20px;
+  top: 155px;
+  left: 30px;
+}
+
+.check_box4 {
+  position: absolute;
+  width: 20px;
+  height: 20px;
+  top: 200px;
+  left: 30px;
+}
+
+.check_box5 {
+  position: absolute;
+  width: 20px;
+  height: 20px;
+  top: 242px;
+  left: 30px;
+}
+
+.check_box6 {
+  position: absolute;
+  width: 20px;
+  height: 20px;
+  top: 350px;
+  left: 30px;
+}
+
+.check_box7 {
+  position: absolute;
+  width: 20px;
+  height: 20px;
+  top: 110px;
+  left: 30px;
+}
+
+.check_box8 {
+  position: absolute;
+  width: 20px;
+  height: 20px;
+  top: 450px;
+  left: 30px;
+}
+
+.check_box9 {
+  position: absolute;
+  width: 20px;
+  height: 20px;
+  top: 495px;
+  left: 30px;
+}
+
+.check_box10 {
+  position: absolute;
+  width: 20px;
+  height: 20px;
+  top: 538px;
+  left: 30px;
+}
+
+.check_box11 {
+  position: absolute;
+  width: 20px;
+  height: 20px;
+  top: 580px;
+  left: 30px;
+}
+
+.cont {
+  position: absolute;
+  top: 670px;
+  left: 380px;
+  width: 1130px;
+  height: 100%;
+}
+
+.cont1 {
+  width: 100%;
+  height: 400px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.cont1 div {
+  background-color: #F4F4F4;
+  width: 355px;
+  height: 350px;
+}
+
+.cont_box1 {
+  background-image: url(https://resource.logitechg.com/w_386,ar_1.0,c_limit,f_auto,q_auto,dpr_2.0/d_transparent.gif/content/dam/gaming/en/products/lol-pro-wireless-mouse/gallery/league-of-legends-pro-wireless-gaming-mouse-gallery-1.png?v=1);
+  background-size: 300px 240px;
+  background-position-x: center;
+  background-position-y: center;
+  background-repeat: no-repeat;
+}
+
+.cont_box2 {
+  background-image: url(https://resource.logitechg.com/w_386,ar_1.0,c_limit,f_auto,q_auto,dpr_2.0/d_transparent.gif/content/dam/gaming/en/products/g305/g305-mint-gallery-1.png?v=1);
+  background-size: 300px 240px;
+  background-position-x: center;
+  background-position-y: center;
+  background-repeat: no-repeat;
+}
+
+.cont_box3 {
+  background-image: url(https://resource.logitechg.com/w_386,ar_1.0,c_limit,f_auto,q_auto,dpr_2.0/d_transparent.gif/content/dam/gaming/en/plp-mousepads/plp-tile-mousepads-g840.png?v=1);
+  background-size: 100% 100%;
+  background-position-x: center;
+  background-position-y: center;
+  background-repeat: no-repeat;
+  text-align: center;
+  text-transform: uppercase;
+  font-size: 40px;
+  color: white;
+
+}
+
+.cont_box3:hover {
+  background-size: 110% 120%;
+}
+
+.cont_box21 {
+  background-image: url(https://resource.logitechg.com/w_386,ar_1.0,c_limit,f_auto,q_auto,dpr_2.0/d_transparent.gif/content/dam/gaming/en/ghub/plp-tile-ghub.png?v=1);
+  background-size: 100% 100%;
+  background-position-x: center;
+  background-position-y: center;
+  background-repeat: no-repeat;
+  text-align: center;
+  text-transform: uppercase;
+  font-size: 40px;
+  color: white;
+}
+
+.cont_box21:hover {
+  background-size: 110% 120%;
+}
+
+.cont_box22 {
+  background-image: url(https://resource.logitechg.com/w_386,ar_1.0,c_limit,f_auto,q_auto,dpr_2.0/d_transparent.gif/content/dam/gaming/en/products/g305/g304-kda-gallery-1.png?v=1);
+  background-size: 300px 240px;
+  background-position-x: center;
+  background-position-y: center;
+  background-repeat: no-repeat;
+}
+
+.cont_box23 {
+  background-image: url(https://resource.logitechg.com/w_386,ar_1.0,c_limit,f_auto,q_auto,dpr_2.0/d_transparent.gif/content/dam/gaming/en/non-braid/hyjal-g502-hero/g502-hero-gallery-1-nb.png?v=1);
+  background-size: 300px 240px;
+  background-position-x: center;
+  background-position-y: center;
+  background-repeat: no-repeat;
+}
+.cont_box31 {
+  background-image: url(https://resource.logitechg.com/w_386,ar_1.0,c_limit,f_auto,q_auto,dpr_2.0/d_transparent.gif/content/dam/gaming/en/products/g502-hero-kda/g502-hero-kda-gallery-01.png?v=1);
+  background-size: 300px 240px;
+  background-position-x: center;
+  background-position-y: center;
+  background-repeat: no-repeat;
+}
+.cont_box32 {
+  background-image: url(https://resource.logitechg.com/w_386,ar_1.0,c_limit,f_auto,q_auto,dpr_2.0/d_transparent.gif/content/dam/gaming/en/products/pro-x-superlight/pro-x-superlight-black-gallery-1.png?v=1);
+  background-size: 300px 240px;
+  background-position-x: center;
+  background-position-y: center;
+  background-repeat: no-repeat;
+}
+
+.cont_box33 {
+  background-image: url(https://resource.logitechg.com/w_386,ar_1.0,c_limit,f_auto,q_auto,dpr_2.0/d_transparent.gif/content/dam/gaming/en/products/refreshed-g203/g203-black-gallery-1.png?v=1);
+  background-size: 300px 240px;
+  background-position-x: center;
+  background-position-y: center;
+  background-repeat: no-repeat;
+}
+.cont_box41 {
+  background-image: url(https://resource.logitechg.com/w_386,ar_1.0,c_limit,f_auto,q_auto,dpr_2.0/d_transparent.gif/content/dam/gaming/en/products/g603/g603-gallery-1.png?v=1);
+  background-size: 300px 240px;
+  background-position-x: center;
+  background-position-y: center;
+  background-repeat: no-repeat;
+}
+/* .cont_box42 {
+  background-image: url(https://resource.logitechg.com/w_386,ar_1.0,c_limit,f_auto,q_auto,dpr_2.0/d_transparent.gif/content/dam/gaming/en/products/pro-wireless-gaming-mouse/pro-wireless-carbon-gallery-1.png?v=1);
+  background-size: 300px 240px;
+  background-position-x: center;
+  background-position-y: center;
+  background-repeat: no-repeat;
+}
+
+.cont_box43 {
+  background-image: url(https://resource.logitechg.com/w_386,ar_1.0,c_limit,f_auto,q_auto,dpr_2.0/d_transparent.gif/content/dam/gaming/en/products/g603/g603-gallery-1.png?v=1);
+  background-size: 300px 240px;
+  background-position-x: center;
+  background-position-y: center;
+  background-repeat: no-repeat;
+} */
+.text_cont{
+  width:100%;
+  height: 200px;
+  display: flex;
+  justify-content: space-between;
+}
+.text_cont div{
+  width: 300px;
+  height: 100px;
+  color: black;
+  font-size: 16px;
+}
+.text111, .text121, .text221{
+  font-weight: bold;
+}
+.text122{
+  font-size: 18px;
+}
